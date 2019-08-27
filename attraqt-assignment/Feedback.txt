@@ -1,0 +1,43 @@
+* How did you find the tasks? Any feedback is most welcome.
+
+Answer :- The task in itself was very and challenging at the same time. It has been created with 
+very detailed precision to test the in-depth knowledge of the application touching concepts like 
+abstraction, interfacing , threads, object creation and restrictions related to it,  RESTAPI.
+Kudos to the developers who worked on it . :)
+
+
+* Is there something that should be considered further regarding the description
+of the tasks?
+
+Answer :- The description in itself is very self explanatory and does not require much more 
+details. Although I believe , in order to solve this quickly and efficiently the candidate 
+must possess good knowledge of Jersey and JAX-RS. This is something I felt should be informed 
+before hand to applicants. 
+
+* What parts would you do differently than described? Pretty please, why?
+
+Answer :- I believe developing the same application in another REST API framework would have been
+much easier that using Jersey with JAX RS. For example using spring boot same rest controller application 
+would have been much easy to build, develop and test. 
+
+For example you don't have to worry to writing custom MessageBodyWriter and MessageBodyReader for each custom data types for request and response. Spring takes care of it all. Less code means less chances of error. 
+
+
+* What part(s) did you like the most? Any specific reason?
+
+Answer :- The challenge of working with the Service and Server classes was the best part because I
+think that's where the real underlying java concepts are tested.
+
+
+
+* Tasks which I could not complete.
+
+Answer :- Complete the crash monkey :- I was not able to complete the crash monkey code as I could not think of a way to achive this efficently. So left it blank.
+
+* How would you distribute monkeys?
+
+Answer :- Monkey service could be ditributed by running one copy of the service per application server.
+So for example if the controller application is running on 3 servers, we can run one instance of Monkey on each of above 3 servers. This way it can monitor the applicaiton controller and the environment.
+
+
+Server Id =99d52fcf-b42a-494e-9c5d-ab4d0e0aa1f9 Server Load =0.15405223 Server ping =477 Server Address =/10.0.0.2 Server StartTime =1563200089005
