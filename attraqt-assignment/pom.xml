@@ -7,7 +7,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<version.jetty>9.4.18.v20190429</version.jetty>
+		<version.jetty>11.0.1</version.jetty>
 		<version.jersey>2.28</version.jersey>
 	</properties>
 
